@@ -43,7 +43,11 @@ Run `python mtl/bertweet.pyc`
 
 For the input prompt `Enter GPU device name:`, enter either `cuda:0` or `cuda:1` (based on what you get from setting up the pre-requisites). 
 
-For the input prompt `Enter BERTweet model path:`, enter the directory of where `mtl_bertweet.pt` is located. 
+For the input prompt `Enter BERTweet model path:`, enter the file path of `mtl_bertweet.pt` (e.g. `model/mtl_bertweet.pt`)
+
+After running the model, output file can be found at `dataset\output\mtl\bertweet_output.csv`
+
+
 
 
 
