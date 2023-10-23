@@ -37,7 +37,7 @@ Make sure all the pre-requisites are installed and set up correctly.
 
 Follow the exact file directory structure to store all the files. 
 
-# Running MTL Models
+## Running MTL Models
 
 Run `python mtl/bertweet.pyc` 
 
@@ -47,7 +47,7 @@ For the input prompt `Enter BERTweet model path:`, enter the file path of `mtl_b
 
 Output file can be found at `dataset/output/mtl/bertweet_output.csv`
 
-# Running COMET-ATOMIC Models
+## Running COMET-ATOMIC Models
 
 Run `python comet-atomic/BART.pyc` 
 
