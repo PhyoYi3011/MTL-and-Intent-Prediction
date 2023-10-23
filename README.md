@@ -35,7 +35,7 @@ Run `pip install -r requirements.txt` to install requirements for your Python in
 
 Make sure all the pre-requisites are installed and set up correctly. 
 
-Follow the file directory structure to store the respective files. 
+Follow the exact file directory structure to store all the files. 
 
 # Running MTL Models
 
@@ -45,7 +45,19 @@ For the input prompt `Enter GPU device name:`, enter either `cuda:0` or `cuda:1`
 
 For the input prompt `Enter BERTweet model path:`, enter the file path of `mtl_bertweet.pt` (e.g. `model/mtl_bertweet.pt`)
 
-After running the model, output file can be found at `dataset\output\mtl\bertweet_output.csv`
+Output file can be found at `dataset/output/mtl/bertweet_output.csv`
+
+# Running COMEET-ATOMIC Models
+
+Run `python comet-atomic/BART.pyc` 
+
+For the input prompt `Enter GPU device name:`, enter either `cuda:0` or `cuda:1` (based on what you get from setting up the pre-requisites). 
+
+For the input prompt `Enter BART model path:`, enter the file path of `comet-atomic_2020_BART` (e.g. `model/comet-atomic_2020_BART`)
+
+Output file can be found at `dataset/output/comet-atomic/BART_output.csv`
+
+
 
 
 
