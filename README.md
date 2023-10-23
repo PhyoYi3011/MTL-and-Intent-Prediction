@@ -9,7 +9,7 @@ Fine-tuned MTL models (BERT, RoBERTa, BERT) can be downloaded [here](https://dri
 COMET-ATOMIC 2020 models (BART, GPT2-XL) can be downloaded [here](https://github.com/allenai/comet-atomic-2020).
 
 
-## Prerequisites to Run Models
+## Pre-requisites to Run Models
 
 NVIDIA CUDA toolkit. Refer to this installation [guide](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html) for Linux or [guide](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html) for Microsoft Windows.
 
@@ -33,13 +33,15 @@ To find out if pytorch is using GPU, run below python script.
 ## Setup
 Run `pip install -r requirements.txt` to install requirements for your Python instance.Our codebases is on Python 3.
 
-Make sure all the prerequisites are installed and set up correctly. 
+Make sure all the pre-requisites are installed and set up correctly. 
 
 Follow the file directory structure to store the respective files. 
 
 # Running MTL Models
 
 Run `python mtl/bertweet.cpython-38.pyc`
+
+
 
 
 
