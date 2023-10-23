@@ -45,7 +45,7 @@ For the input prompt `Enter GPU device name:`, enter either `cuda:0` or `cuda:1`
 
 For the input prompt `Enter BERTweet model path:`, enter the file path of `mtl_bertweet.pt` (e.g. `model/mtl_bertweet.pt`)
 
-Output file can be found at `dataset/output/mtl/bertweet_output.csv`
+After the execution of `mtl/bertweet.pyc` is complete, you will find the output file at `dataset/output/mtl/bertweet_output.csv`
 
 ## Running COMET-ATOMIC Models
 
@@ -55,10 +55,7 @@ For the input prompt `Enter GPU device name:`, enter either `cuda:0` or `cuda:1`
 
 For the input prompt `Enter BART model path:`, enter the file path of `comet-atomic_2020_BART` (e.g. `model/comet-atomic_2020_BART`)
 
-Output file can be found at `dataset/output/comet-atomic/BART_output.csv`
-
-
-
+After the execution of `comet-atomic/BART.pyc` is complete, you will find the output file at `dataset/output/comet-atomic/BART_output.csv`
 
 
 
