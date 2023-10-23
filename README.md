@@ -6,7 +6,7 @@ Fine-tuned MTL models (BERT, RoBERTa, BERT) can be downloaded [here](https://dri
 
 ## COMET-ATOMIC 2020 Model
 
-COMET-ATOMIC 2020 models (BART, GPT2-XL) can be downloaded [here](https://github.com/allenai/comet-atomic-2020). The zipped folder contains `comet-atomic_2020_BART` and `gpt2xl-comet-atomic-2020`.
+COMET-ATOMIC 2020 models (BART, GPT2-XL) can be downloaded [here](https://drive.google.com/file/d/1ugPVEZiJkDuEFXbt3_jUMeHulu9rPMm8/view?usp=sharing). The zipped folder contains `comet-atomic_2020_BART` and `gpt2xl-comet-atomic-2020`.
 
 
 ## Pre-requisites to Run Models
