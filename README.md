@@ -2,11 +2,11 @@
 
 ## Multi-Task Learning Model
 
-Fine-tuned MTL models (BERT, RoBERTa, BERT) can be downloaded [here](https://drive.google.com/file/d/1_dDnBZfA5Uvly0Mg3ZmuRFOUk6-uBZ1X/view?usp=share_link). The zipped folder contains `mtl_bert.pt`, `mtl_bertweet.pt`, mtl_roberta.pt`.
+Fine-tuned MTL models (BERT, RoBERTa, BERT) can be downloaded [here](https://drive.google.com/file/d/1_dDnBZfA5Uvly0Mg3ZmuRFOUk6-uBZ1X/view?usp=share_link). The zipped folder contains `mtl_bert.pt`, `mtl_bertweet.pt`, `mtl_roberta.pt`.
 
 ## COMET-ATOMIC 2020 Model
 
-COMET-ATOMIC 2020 models (BART, GPT2-XL) can be downloaded [here](https://github.com/allenai/comet-atomic-2020). The zipped folder contains `comet-atomic_2020_BART` and 'gpt2xl-comet-atomic-2020`.
+COMET-ATOMIC 2020 models (BART, GPT2-XL) can be downloaded [here](https://github.com/allenai/comet-atomic-2020). The zipped folder contains `comet-atomic_2020_BART` and `gpt2xl-comet-atomic-2020`.
 
 
 ## Pre-requisites to Run Models
