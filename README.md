@@ -23,7 +23,7 @@ To find out if pytorch is using GPU, run below python script.
       * “1” if “cuda:1” is used.
 
 ## Directory Overview
-`dataset`: Contains two folders: `input` and `output`. `input` contains sample testing dataset needed to run MTL and COMET-ATOMIC models. `output` contains output files generated after running MTL and COMET-ATOMIC models
+`dataset`: Contains two folders: `input` and `output`. `input` contains sample testing dataset needed to run MTL and COMET-ATOMIC models. `output` contains output files generated after running MTL and COMET-ATOMIC models.
 
 `mtl`: Contains compiled python files to run BERT, RoBERTa, BERTweet models
 
