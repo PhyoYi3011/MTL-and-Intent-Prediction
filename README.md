@@ -31,7 +31,7 @@ To find out if pytorch is using GPU, run below python script.
 
 
 ## Setup
-Run `pip install -r requirements.txt` to install requirements for your Python instance.Our codebases is on Python 3.
+Run `pip install -r requirements.txt` to install requirements for your Python instance.Our codebases is on Python 3.8.
 
 Make sure all the pre-requisites are installed and set up correctly. 
 
@@ -39,7 +39,12 @@ Follow the file directory structure to store the respective files.
 
 # Running MTL Models
 
-Run `python mtl/bertweet.cpython-38.pyc`
+Run `python mtl/bertweet.pyc` 
+
+For the input prompt `Enter GPU device name:`, enter either `cuda:0` or `cuda:1` (based on what you get from setting up the pre-requisites). 
+
+For the input prompt `Enter BERTweet model path:`, enter the directory of where `mtl_bertweet.pt` is located. 
+
 
 
 
