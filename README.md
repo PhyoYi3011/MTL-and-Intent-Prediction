@@ -47,7 +47,7 @@ For the input prompt `Enter BERTweet model path:`, enter the file path of `mtl_b
 
 Output file can be found at `dataset/output/mtl/bertweet_output.csv`
 
-# Running COMEET-ATOMIC Models
+# Running COMET-ATOMIC Models
 
 Run `python comet-atomic/BART.pyc` 
 
