@@ -17,5 +17,5 @@ COMET-ATOMIC 2020 models (BART, GPT2-XL) can be downloaded [here](https://github
   * import torch
   * torch.cuda.is_available()
   * torch.cuda.current_device()
-  * “0” if “cuda:0” is used.
-  * “1” if “cuda:1” is used. 
+   * “0” if “cuda:0” is used.
+   * “1” if “cuda:1” is used. 
