@@ -37,6 +37,7 @@ To find out if PyTorch is using GPU in your environment, run below python script
   * `import torch`
   * `torch.cuda.is_available()`
      * It should return `True`
+
 To find out which GPU device is selected in your environment, run below python script. 
   * `torch.cuda.current_device()`
       * If it returns `0`, `cuda:0` is used.
