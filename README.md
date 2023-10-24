@@ -29,7 +29,7 @@ COMET-ATOMIC 2020 models (BART, GPT2-XL) can be downloaded [here](https://drive.
 ## Setup
 Make sure all the pre-requisites are installed and set up correctly. 
 
-Run `pip install -r requirements.txt` to install requirements for your Python instance. Our codebases is on Python 3.8.8.
+Run `pip install -r requirements.txt` to install requirements for your Python instance. Our codebase is on Python 3.8.8.
 
 Run `pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html` 
 
