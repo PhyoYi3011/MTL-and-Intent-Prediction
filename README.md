@@ -1,6 +1,6 @@
-# Unveiling the Dynamics of Crisis Events: Sentiment and Emotion Analysis via Multi-Task Learning with Attention Mechanism and Subject-based Intent Prediction
+# Unveiling the Dynamics of Crisis Events: Sentiment and Emotion Analysis via Multi-task Learning with Attention Mechanism and Subject-based Intent Prediction
 
-## Multi-Task Learning Model
+## Multi-task Learning Model (MTL)
 
 Fine-tuned MTL models (BERT, RoBERTa, BERT) can be downloaded [here](https://drive.google.com/file/d/1_dDnBZfA5Uvly0Mg3ZmuRFOUk6-uBZ1X/view?usp=share_link). The zipped folder contains `mtl_bert.pt`, `mtl_bertweet.pt`, `mtl_roberta.pt`.
 
