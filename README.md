@@ -34,14 +34,14 @@ NVIDIA container toolkit. Refer to this installation [guide](https://docs.nvidia
 3. Run `pip install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html` to install PyTorch.
 
 4. To find out if PyTorch is using GPU in your environment, run below python script.
-  * `import torch`
-  * `torch.cuda.is_available()`
-     * It should return `True`
+   * `import torch`
+   * `torch.cuda.is_available()`
+      * It should return `True`
 
 5. To find out which GPU device is selected in your environment, run below python script. 
-  * `torch.cuda.current_device()`
-      * If it returns `0`, `cuda:0` is used.
-      * If it reutnr `1`, `cuda:1` is used.
+   * `torch.cuda.current_device()`
+       * If it returns `0`, `cuda:0` is used.
+       * If it reutnr `1`, `cuda:1` is used.
 
 6. Follow the exact file directory structure to store all the files. 
 
