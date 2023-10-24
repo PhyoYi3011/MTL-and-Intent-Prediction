@@ -2,7 +2,7 @@
 
 ## Multi-task Learning Model (MTL)
 
-Fine-tuned MTL models (BERT, RoBERTa, BERT) can be downloaded [here](https://drive.google.com/file/d/1_dDnBZfA5Uvly0Mg3ZmuRFOUk6-uBZ1X/view?usp=share_link). The zipped folder contains `mtl_bert.pt`, `mtl_bertweet.pt`, `mtl_roberta.pt`.
+Fine-tuned MTL models (BERT, RoBERTa, BERTweet) can be downloaded [here](https://drive.google.com/file/d/1_dDnBZfA5Uvly0Mg3ZmuRFOUk6-uBZ1X/view?usp=share_link). The zipped folder contains `mtl_bert.pt`, `mtl_bertweet.pt`, `mtl_roberta.pt`.
 
 ## COMET-ATOMIC 2020 Model
 
