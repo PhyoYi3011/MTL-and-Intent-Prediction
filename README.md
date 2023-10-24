@@ -34,11 +34,11 @@ Run `pip install -r requirements.txt` to install requirements for your Python in
 Run `pip install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html` to install PyTorch.
 
 To find out if PyTorch is using GPU in your environment, run below python script.
-  * import torch
-  * torch.cuda.is_available()
+  * `import torch`
+  * `torch.cuda.is_available()`
      * It should return `True`
 To find out which GPU device is selected in your environment, run below python script. 
-  * torch.cuda.current_device()
+  * `torch.cuda.current_device()`
       * If it returns `0`, `cuda:0` is used.
       * If it reutnr `1`, `cuda:1` is used.
 
