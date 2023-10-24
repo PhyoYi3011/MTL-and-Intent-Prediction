@@ -18,8 +18,8 @@ COMET-ATOMIC 2020 models (BART, GPT2-XL) can be downloaded [here](https://drive.
 
 ## Directory Overview
 `dataset`: Contains two folders: `input` and `output`. 
-    *`input` contains sample testing dataset needed to run MTL and COMET-ATOMIC models.
-    *`output` contains sample output files generated after running MTL and COMET-ATOMIC models.
+*`input` contains sample testing dataset needed to run MTL and COMET-ATOMIC models.
+*`output` contains sample output files generated after running MTL and COMET-ATOMIC models.
 
 `mtl`: Contains compiled python files to run BERT, RoBERTa, BERTweet models.
 
