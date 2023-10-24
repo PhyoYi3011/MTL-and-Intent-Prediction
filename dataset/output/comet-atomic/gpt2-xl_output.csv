@@ -1,21 +1,21 @@
 tweet,GPT_intent,subject,cluster
 a bus hit an indian guy,"['to be mean', 'to be violent', 'to have fun', 'to get revenge']",bus,4.0
-Riot at Little India. Police car was smashed earlier. Please avoid that area and give way to emergency vehicles!,"['to be safe', 'to save lives', 'to save life', 'to be helpful', 'to be safe and safe']",police car,
-Omg I hope nobody gets too hurt in the riot at Little India :(,"['to be nice', 'to be kind', 'people to be safe', 'to be a good person']",i,
-The rescue team is searching for people lost in the devastating flood. They are also trying to rescue people stranded by rising waters.,"['to save lives', 'to save them', 'to be helpful', 'to save them.']",rescue team,2.0
-1 month after Super Typhoon Haiyan Philippines faces huge challenges.,"['to be safe', 'to be successful', 'to show off']",super typhoon haiyan philippines,
-"So much respect for the firemen, police officers and all those who are there to manage the situation.","['to be nice', 'to be helpful', 'to be kind', 'to be a good person']",who,
-Rescue teams are working tirelessly to find survivors after earthquake… in this challenging time.,"['to save lives', 'to be helpful', 'to be a hero', 'to help people', 'to be a good life guard']",rescue teams,2.0
-Communities are coming together to share resources and help evacuate those in danger after wildfire crisis.,"['to save lives', 'to be helpful', 'to be kind', 'to help people']",communities,
-Rioting mob attacked SCDF rescuers,"['to save lives', 'save lives', 'safety', 'to be feared', 'to save life']",rioting mob,3.0
-Updated with vids. Riot in Little India Angry mob overturns Police cars & sets them on fire,"['angry', 'to be feared', 'to be dangerous', 'to be violent']",angry mob,3.0
-Singapore Little India Riot 2013 - Mob Surrounds Vehicles #singapore,"['to have fun', 'to make money', 'to have a good time', 'to have a good life']",,
+Riot at Little India. Police car was smashed earlier. Please avoid that area and give way to emergency vehicles!,"['to be safe', 'to save lives', 'to save life', 'to be nice', 'to be safe and safe']",police car,
+Omg I hope nobody gets too hurt in the riot at Little India :(,"['people to be safe', 'to be nice', 'people to live', 'not to get hurt']",i,
+The rescue team is searching for people lost in the devastating flood. They are also trying to rescue people stranded by rising waters.,"['to save lives', 'to be safe', 'to be helpful', 'to save them']",rescue team,3.0
+1 month after Super Typhoon Haiyan Philippines faces huge challenges.,"['superstorm', 'super Typhoon', 'to be safe', 'super typhoon', 'begins in 2 months']",super typhoon haiyan philippines,
+"So much respect for the firemen, police officers and all those who are there to manage the situation.","['to be nice', 'to be helpful', 'to show respect', 'to be a good person']",who,
+Rescue teams are working tirelessly to find survivors after earthquake… in this challenging time.,"['to save lives', 'to be helpful', 'to help people', 'to be a hero', 'to be a good life guard']",rescue teams,3.0
+Communities are coming together to share resources and help evacuate those in danger after wildfire crisis.,"['to save lives', 'to be helpful', 'to be kind', 'society to be safe']",communities,
+Rioting mob attacked SCDF rescuers,"['save lives', 'to save lives', 'to be feared', 'to save life', 'scare away a criminal']",rioting mob,2.0
+Angry mob overturns Police cars & sets them on fire.Updated with vids. Riot in Little India,"['to be angry', 'angry', 'be angry', 'to be feared', 'angry mob']",angry mob,2.0
+Singapore Little India Riot 2013 - Mob Surrounds Vehicles #singapore,"['have fun', 'earn money', 'get rich', 'learn new things', 'earn more money']",mob,2.0
 SCDF officers are really brave. Going out to the riot and they can even lose their lives,"['to be brave', 'to save lives', 'to be a hero', 'to save a life']",scdf officers,1.0
-"SCDF officers standby and shields up. Racecourse road condone off. Apparently, a bus hit an Indian guy","['to be safe', 'to hurt him', 'to get to the hospital', 'to get to the mall']",scdf officers,1.0
-"SCDF officers personnels controlling the streets of Little India tonight, you've got a big job on your hands. Stay strong and stay safe, mates","['to be safe', 'safety', 'to be safe.', 'to be a good person', 'to be safe and safe']",scdf officers personnels,1.0
-Bus driver ran over a local. No response from emergency services for over 30mins. Bus driver attacked.,"['to be safe', 'to stop', 'to get to the hospital', 'to get to the destination']",bus driver,4.0
-China bus driver knocked down an Indian guy and he died.,"['to be mean', 'to hurt him', 'to be rude']",china bus driver,4.0
-"oh, apparently a bus driver hit down a Bangla. Then riot ah","['to be feared', 'to be mean', 'to be violent', 'to get rid of a person']",bus driver,4.0
+"SCDF officers standby and shields up. Racecourse road condone off. Apparently, a bus hit an Indian guy","['to hurt him', 'to be safe', 'to get to the hospital', 'to get to the mall']",scdf officers,1.0
+"SCDF officers personnels controlling the streets of Little India tonight, you've got a big job on your hands. Stay strong and stay safe, mates","['stay safe', 'safety', 'to be safe', 'have a job', 'have a job to do']",scdf officers personnels,1.0
+Bus driver ran over a local. No response from emergency services for over 30mins. Bus driver attacked.,"['no response', 'to stop', 'to be safe', 'to get to the hospital']",bus driver,4.0
+China bus driver knocked down an Indian guy and he died.,"['to be mean', 'to hurt him', 'to kill him', 'to get to the hospital']",china bus driver,4.0
+"oh, apparently a bus driver hit down a Bangla. Then riot ah","['to be feared', 'to hit', 'to be mean', 'to be violent', 'to get rid of a person']",bus driver,4.0
 My thoughts with those in #Paris tonight . Stay safe everyone . #ParisAttack,"['to be safe', 'to stay safe', 'to be brave', 'to be careful']",,
 "Rumor has is that 2 police officers , 3 SCDF officers and 3 fire fighters died in the riot ? ","['to be safe', 'to be feared', 'is that 2 police officers']",rumor,
-Man held over gun attack on police,"['to be feared', 'to kill', 'to get away with murder', 'to be feared']",man,
+Man held over gun attack on police,"['get away with murder', 'get arrested', 'get away from police', 'gun', 'get away from cops']",man,

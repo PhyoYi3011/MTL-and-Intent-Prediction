@@ -1,21 +1,21 @@
 tweet,BART_intent,subject,cluster
-a bus hit an indian guy,"['to hurt someone', 'to be mean', 'to be violent', 'to get revenge']",bus,4.0
+a bus hit an indian guy,"['to hurt someone', 'to be mean', 'to be violent', 'to get revenge']",bus,1.0
 Riot at Little India. Police car was smashed earlier. Please avoid that area and give way to emergency vehicles!,"['to be safe', 'to be safe.', 'to help the injured', 'to protect the people', 'to get to work']",police car,
 Omg I hope nobody gets too hurt in the riot at Little India :(,"['to be safe', 'to protect people', 'to protect others', 'sad']",i,
-The rescue team is searching for people lost in the devastating flood. They are also trying to rescue people stranded by rising waters.,"['to be helpful', 'to help people', 'to save people', 'to help', 'to help others']",rescue team,1.0
+The rescue team is searching for people lost in the devastating flood. They are also trying to rescue people stranded by rising waters.,"['to be helpful', 'to help people', 'to save people', 'to help', 'to help others']",rescue team,4.0
 1 month after Super Typhoon Haiyan Philippines faces huge challenges.,"['to rebuild', 'to recover', 'to help', 'relief']",super typhoon haiyan philippines,
 "So much respect for the firemen, police officers and all those who are there to manage the situation.","['to be helpful', 'to help others', 'to help out', 'to help']",who,
-Rescue teams are working tirelessly to find survivors after earthquake… in this challenging time.,"['to save people', 'to save lives', 'to help people', 'to be helpful', 'to help']",rescue teams,1.0
+Rescue teams are working tirelessly to find survivors after earthquake… in this challenging time.,"['to save people', 'to save lives', 'to help people', 'to be helpful', 'to help']",rescue teams,4.0
 Communities are coming together to share resources and help evacuate those in danger after wildfire crisis.,"['to be helpful', 'to help others', 'to help people', 'to save lives', 'to help']",communities,
 Rioting mob attacked SCDF rescuers,"['to get revenge', 'to hurt people', 'to be safe', 'to cause trouble', 'to be free']",rioting mob,3.0
-Updated with vids. Riot in Little India Angry mob overturns Police cars & sets them on fire,"['to express anger', 'to get revenge', 'to hurt people', 'angry']",angry mob,3.0
-Singapore Little India Riot 2013 - Mob Surrounds Vehicles #singapore,"['to be a rioter', 'to see a riot', 'to see the riot', 'to be a hero']",,
+Angry mob overturns Police cars & sets them on fire.Updated with vids. Riot in Little India,"['to express anger', 'to get revenge', 'to show anger', 'angry']",angry mob,3.0
+Singapore Little India Riot 2013 - Mob Surrounds Vehicles #singapore,"['to express anger', 'to be safe', 'to cause trouble', 'angry']",mob,3.0
 SCDF officers are really brave. Going out to the riot and they can even lose their lives,"['to be a hero', 'to protect the people', 'to protect the country', 'to be brave', 'to protect the community']",scdf officers,2.0
 "SCDF officers standby and shields up. Racecourse road condone off. Apparently, a bus hit an Indian guy","['to protect people', 'to be safe', 'to be helpful', 'to save lives', 'to help']",scdf officers,2.0
 "SCDF officers personnels controlling the streets of Little India tonight, you've got a big job on your hands. Stay strong and stay safe, mates","['to protect the people', 'to protect the city', 'to be a leader', 'to be safe', 'to be helpful']",scdf officers personnels,2.0
-Bus driver ran over a local. No response from emergency services for over 30mins. Bus driver attacked.,"['to get revenge', 'to hurt someone', 'to be mean', 'to get away']",bus driver,4.0
-China bus driver knocked down an Indian guy and he died.,"['to kill someone', 'to hurt someone', 'to get away', 'to kill']",china bus driver,4.0
-"oh, apparently a bus driver hit down a Bangla. Then riot ah","['to cause trouble', 'to hurt someone', 'to be violent', 'to cause chaos']",bus driver,4.0
+Bus driver ran over a local. No response from emergency services for over 30mins. Bus driver attacked.,"['to get revenge', 'to hurt someone', 'to be mean', 'to get away']",bus driver,1.0
+China bus driver knocked down an Indian guy and he died.,"['to kill someone', 'to hurt someone', 'to get away', 'to kill']",china bus driver,1.0
+"oh, apparently a bus driver hit down a Bangla. Then riot ah","['to cause trouble', 'to hurt someone', 'to be violent', 'to cause chaos']",bus driver,1.0
 My thoughts with those in #Paris tonight . Stay safe everyone . #ParisAttack,"['to be supportive', 'to show solidarity', 'to be helpful', 'to help']",,
 "Rumor has is that 2 police officers , 3 SCDF officers and 3 fire fighters died in the riot ? ","['to get revenge', 'to be safe', 'to get justice', 'sad']",rumor,
 Man held over gun attack on police,"['to be free', 'to be safe', 'to get justice', 'to be punished', 'to avoid jail']",man,
