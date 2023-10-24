@@ -31,9 +31,9 @@ Make sure all the pre-requisites are installed and set up correctly.
 
 Run `pip install -r requirements.txt` to install requirements for your Python instance. Our codebase is on Python 3.8.8.
 
-Run `pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html` 
+Run `pip install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html` to install PyTorch.
 
-To find out if pytorch is using GPU in your environment, run below python script.
+To find out if PyTorch is using GPU in your environment, run below python script.
   * import torch
   * torch.cuda.is_available()
      * It should return `True`
