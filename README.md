@@ -15,15 +15,11 @@ COMET-ATOMIC 2020 models (BART, GPT2-XL) can be downloaded [here](https://drive.
 
 * NVIDIA container toolkit. Refer to this installation [guide](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html).
 
-To find out if pytorch is using GPU, run below python script.
-  * import torch
-  * torch.cuda.is_available()
-  * torch.cuda.current_device()
-      * “0” if “cuda:0” is used.
-      * “1” if “cuda:1” is used.
 
 ## Directory Overview
-`dataset`: Contains two folders: `input` and `output`. `input` contains sample testing dataset needed to run MTL and COMET-ATOMIC models. `output` contains output files generated after running MTL and COMET-ATOMIC models.
+`dataset`: Contains two folders: `input` and `output`. 
+    `input` contains sample testing dataset needed to run MTL and COMET-ATOMIC models.
+    `output` contains sample output files generated after running MTL and COMET-ATOMIC models.
 
 `mtl`: Contains compiled python files to run BERT, RoBERTa, BERTweet models.
 
@@ -31,9 +27,20 @@ To find out if pytorch is using GPU, run below python script.
 
 
 ## Setup
-Run `pip install -r requirements.txt` to install requirements for your Python instance.Our codebases is on Python 3.8.
-
 Make sure all the pre-requisites are installed and set up correctly. 
+
+Run `pip install -r requirements.txt` to install requirements for your Python instance. Our codebases is on Python 3.8.8.
+
+Run `pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html` 
+
+To find out if pytorch is using GPU in your environment, run below python script.
+  * import torch
+  * torch.cuda.is_available()
+     * It should return `True`
+To find out which GPU device is selected in your environment, run below python script. 
+  * torch.cuda.current_device()
+      * If it returns `0`, `cuda:0` is used.
+      * If it reutnr `1`, `cuda:1` is used.
 
 Follow the exact file directory structure to store all the files. 
 
@@ -41,7 +48,7 @@ Follow the exact file directory structure to store all the files.
 
 Run `python mtl/bertweet.pyc` 
 
-When promped with `Enter GPU device name:`, enter either `cuda:0` or `cuda:1` (based on what you get from setting up the pre-requisites). 
+When promped with `Enter GPU device name:`, enter either `cuda:0` or `cuda:1` (based on which GPU device is selected in Setup step). 
 
 When prompted with `Enter BERTweet model path:`, enter the file path to the location of `mtl_bertweet.pt` (e.g. `model/mtl_bertweet.pt`)
 
@@ -51,7 +58,7 @@ After the execution of `mtl/bertweet.pyc` is complete, you will find the output 
 
 Run `python comet-atomic/BART.pyc` 
 
-When promped with `Enter GPU device name:`, enter either `cuda:0` or `cuda:1` (based on what you get from setting up the pre-requisites). 
+When promped with `Enter GPU device name:`, enter either `cuda:0` or `cuda:1` (based on which GPU device is selected in Setup step). 
 
 When prompted with `Enter BART model path:`, enter the file path to the location of `comet-atomic_2020_BART` (e.g. `model/comet-atomic_2020_BART`)
 
